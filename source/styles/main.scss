@@ -1,0 +1,9 @@
+@use 'variaveis';
+
+body{
+    background-color: variaveis.$corPrincial;
+}
+
+h1{
+    color: variaveis.$corSecundaria;
+}
